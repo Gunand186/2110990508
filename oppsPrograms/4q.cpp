@@ -14,7 +14,7 @@ bool prime(int a){
 
 int main(){
     int a;
-    cout<<"enter number you wanna check :";
+    cout<<"enter number to check :";
     cin>>a;
 
     if(prime(a)){
